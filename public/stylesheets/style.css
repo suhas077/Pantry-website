@@ -1,0 +1,21 @@
+.thumbnail img {
+    max-height: 150px;
+    max-width:150px;
+}
+
+.thumbnail .description {
+    color: #830e0e;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+header{
+    background-image: url(https://thumbs.dreamstime.com/t/fast-food-background-picture-webpage-other-design-based-around-32336620.jpg);
+}
+
+ul li a{
+    color : #000000;
+}
